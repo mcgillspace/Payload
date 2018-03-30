@@ -1,0 +1,14 @@
+fov: 10.10
+centroid_error: 1.00
+number right: 0
+number failed: 18
+num wrngordr: 0
+number wrong: 0
+ms taken: 5
+fov: 10.10
+centroid_error: 1.00
+number right: 0
+number failed: 18
+num wrngordr: 0
+number wrong: 0
+ms taken: 0
